@@ -230,6 +230,7 @@ body {
 #replay {
   z-index: 3;
   cursor: pointer;
+  color: blue;
 }
 
 /* Media Queries */
@@ -280,8 +281,9 @@ body {
   }
 
   .six .hat {
-    width: 50px;
+    width: 100px;
     top: -20px;
+    left: 20%;
   }
 
   .wish-hbd {
