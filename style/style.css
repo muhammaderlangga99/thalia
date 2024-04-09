@@ -272,6 +272,12 @@ body {
     bottom: -38px;
   }
 
+  .idea-3 strong {
+    display: block;
+    width: 35%;
+    margin: 0 auto;
+  }
+
   .idea-5 span {
     display: block;
   }
